@@ -1,0 +1,39 @@
+/*.navbar{
+	margin-bottom: 0;
+	border-radius: 0;
+}
+.footer {
+	border-radius: 0;
+	background-color: #534E4E;
+	text-align: center;
+	color: white;
+	font-weight: bold;*/
+}
+/*.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 0px;
+    color: inherit;
+    background-color: #eee;
+}
+.wdpf-content{
+	height: 420px;
+	line-height: 20px;
+	letter-spacing: 2px;
+	text-align: justify;
+}
+*/
+/*custom style for changing separator*/
+/*.breadcrumb>li+li:before{
+	content: ">";
+}*/
+
+/*.breadcrumb{
+	background-color: #EFD4D4;
+	border-radius: 0;
+}*/
+
+/*.container .jumbotron, .container-fluid .jumbotron {
+    padding-right: 15px;
+    padding-left: 15px;
+    border-radius: 0px;*/
