@@ -1,0 +1,13 @@
+.navbar{
+	margin-bottom: 0;
+	border-radius: 0;
+}.jumbotron {
+	border-radius: 0 !important;
+}
+.footer {
+	border-radius: 0;
+	background-color: #534E4E;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+}
